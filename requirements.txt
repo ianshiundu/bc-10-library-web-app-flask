@@ -1,6 +1,6 @@
 alabaster
 anaconda-client
-anaconda-navigator==1.2.1
+anaconda-navigator
 argcomplete
 astropy
 Babel
